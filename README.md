@@ -40,3 +40,4 @@ Hướng dẫn cài đặt ChatNet
 ♠ Sau khi quá trình cài đặt hoàn tất, bạn sẽ thấy trang sau. Nhấp vào nút Truy cập để truy cập cộng đồng trò chuyện mới tạo của bạn.
 
 Vui lòng liên hệ với chúng tôi nếu bạn cần bất kỳ trợ giúp nào qua (https://www.facebook.com/son.buixuan.5686)
+DEMO: https://samcvn.site/
